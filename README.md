@@ -21,50 +21,52 @@ The Delete Student option removes a particular student’s record from the file 
 
 The program makes use of various Python concepts such as:
 
-Functions for modular programming
+• Functions for modular programming
 
-Loops for continuous menu display
+• Loops for continuous menu display
 
-Conditional statements for user choices
+• Conditional statements for user choices
 
-File handling using CSV module
+• File handling using CSV module
 
-String formatting for proper output display
+• String formatting for proper output display
 
-Basic error handling for smooth execution
-
+• Basic error handling for smooth execution
+ 
 This system reduces manual paperwork, ensures quick access to student data, and provides an efficient and user-friendly way to manage records.
 
 🎯 Objectives of the Project
 
-To store student records using a CSV file
+•To store student records using a CSV file
 
-To implement add, view, update, and deleteoperations
+• To implement add, view, update, and deleteoperations
 
-To include academic details like semester and marks
+• To include academic details like semester and marks
 
-To create a menu-driven command-line application
+• To create a menu-driven command-line application
 
-To understand file handling in Python
+• To understand file handling in Python 
 
 🛠 Technologies Used
 
-Python Programming Language
+• Python Programming Language
 
-CSV Module
+• CSV Module
 
-Command Line Interface
+• Command Line Interface
 
-File Handling
+• File Handling
 
 ✅ Advantages
 
-Simple and easy to operate
+• Simple and easy to operate
 
-Permanent data storage
+• Permanent data storage
 
-Fast retrieval of student records
+• Fast retrieval of student records
 
-Reduces manual work
+• Reduces manual work
 
-Structured and organized data management
+• Structured and organized data management
+
+Author: Varun Patel

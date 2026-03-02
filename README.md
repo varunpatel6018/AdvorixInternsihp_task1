@@ -70,3 +70,25 @@ This system reduces manual paperwork, ensures quick access to student data, and 
 • Structured and organized data management
 
 Author: Varun Patel
+
+## ▶️ How to Run
+
+1. Clone the repository
+   git clone https://github.com/varunpatel6018/AdvorixInternsihp_task1.git
+
+2. Go to the project folder
+   cd /home/varun/AdvorixIntersihp_tasks
+
+3. Create virtual environment
+   python -m venv my_env
+
+4. Activate virtual environment
+
+   Windows:
+   my_env\Scripts\activate
+
+   Mac/Linux:
+   source my_env/bin/activate
+
+5. Run the program
+   python AdvorixInternsihp_task1.py

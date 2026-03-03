@@ -92,3 +92,13 @@ Author: Varun Patel
 
 5. Run the program
    python AdvorixInternsihp_task1.py
+
+   or
+
+   /usr/bin/python /home/varun/AdvorixIntersihp_tasks/AdvorixInternsihp_task1.py
+
+   or
+
+   /usr/bin/python3 /home/varun/AdvorixIntersihp_tasks/AdvorixInternsihp_task1.py
+
+

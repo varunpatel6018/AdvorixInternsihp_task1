@@ -95,7 +95,7 @@ Author: Varun Patel
 
    or
 
-   /usr/bin/python /home/varun/AdvorixIntersihp_tasks/AdvorixInternsihp_task1.py
+   python3 AdvorixInternsihp_task1.py
 
    or
 
